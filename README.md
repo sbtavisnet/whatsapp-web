@@ -22,15 +22,5 @@ npm i  @types/express --save-dev
 
 npx tsc --init
 
-=========================================
-
-
-"scripts": {
-    "start": "node ./build/start.js",
-    "build": "tsc",
-    "dev": "ts-node-dev ./src/start.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-
 
 
